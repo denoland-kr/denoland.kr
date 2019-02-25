@@ -1,5 +1,7 @@
 ![deno](https://deno.land/deno_logo_2.gif)
 
+*Typescript 을 위한 새로운 자바스크립트 런타임 [Deno](https://deno.land/) 에 대한 한국어 자료. Deno 와 관련 된 한국어 대화는 현재 [Seouljs](https://seoul.js.org/) 의 슬랙채널 #deno 에 진행 중. 관심 있다면 해당 링크를 사용*
+
 # Deno
 
 A new way to JavaScript
@@ -59,6 +61,8 @@ file_server --reload
 [API Reference](https://deno.land/typedoc/index.html): API 레퍼런스
 
 [Links to other Deno resources](https://github.com/denolib/awesome-deno)
+
+[Updates in denoland](/updates.html): Denoland 의 업데이트를 한글로 정리
 
 # Continuous Benchmark
 

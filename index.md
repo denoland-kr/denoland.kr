@@ -13,8 +13,6 @@ A new way to JavaScript
 | [deno_install](https://github.com/denoland/deno_install) | ![build](https://api.travis-ci.com/denoland/deno_install.svg?branch=master)                              | ![build](https://ci.appveyor.com/api/projects/status/gtekeaf7r60xa896?branch=master&svg=true) | Deno 인스톨러들                                                                                                                          |
 | [registry](https://github.com/denoland/registry)         |                                                                                                          |                                                                                               | Deno 를 위한 URL 리다이렉션 서비스, https://deno.land/x/ 와 모듈명과 버전명으로 구분하여 Github 등에 존재하는 소스로 이동시켜주는 서비스 |
 
-> TypeScript 를 위한 새로운 JavaScript 런타임 [Deno](https://deno.land/) 에 대한 한국어 자료. Deno 와 관련 된 한국어 대화는 현재 [Seouljs](https://seoul.js.org/) 의 슬랙채널 #deno 에 진행 중. 관심 있다면 해당 링크를 사용.
-
 # [Install](https://deno.land/#install)
 
 With Shell

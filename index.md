@@ -1,4 +1,4 @@
-![deno](/static/deno.land.jpg)
+![deno](/static/denoland_kr-logo.png)
 
 *Typescript 을 위한 새로운 자바스크립트 런타임 [Deno](https://deno.land/) 에 대한 한국어 자료. Deno 와 관련 된 한국어 대화는 현재 [Seouljs](https://seoul.js.org/) 의 슬랙채널 #deno 에 진행 중. 관심 있다면 해당 링크를 사용* [Denoland 의 업데이트를 한글로 정리](/updates) 하고 있으니 참고.
 

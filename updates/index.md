@@ -1,7 +1,7 @@
 # Updates in denoland
 
 ## 2019-04-09
-[Release v0.3.6 · denoland/deno](https://github.com/denoland/deno/releases/tag/v0.3.6): Typescript 3.4.1, WebWorker JS API 그리고 [Deno Core 가 crates.io 에 등록](https://crates.io/crates/deno), Rust 를 사용해서 [간단한 HTTP 서버를 만들 수 있다](https://github.com/denoland/deno/blob/master/core/http_bench.rs)
+- [Release v0.3.6 · denoland/deno](https://github.com/denoland/deno/releases/tag/v0.3.6): Typescript 3.4.1, WebWorker JS API 그리고 [Deno Core 가 crates.io 에 등록](https://crates.io/crates/deno), Rust 를 사용해서 [간단한 HTTP 서버를 만들 수 있다](https://github.com/denoland/deno/blob/master/core/http_bench.rs)
 - [일본에서 (벌써) Deno 책이 출간](https://twitter.com/keroxp/status/1115240038160191488). Deno 로 HTTP/1.1 로 만드는 것에 대해서 다룬다.
 - [WarsawJS Meetup #56 - 10 APR 2019](https://www.evensi.com/warsawjs-meetup-56-golden-floor-tower-chlodna-51/299609639): 바르샤바에서 열리는 미트업에서 Deno 소개
 - [sindresorhus/ky: 🌳 Tiny & elegant HTTP client based on window.fetch](https://github.com/sindresorhus/ky): Deno 에서 사용 할 수 있는 HTTP Client

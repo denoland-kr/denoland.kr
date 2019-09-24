@@ -1,0 +1,50 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+.fixedHeaderContainer {
+  display: none;
+}
+
+.logo {
+  width: 200px;
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  padding: 20px 0;
+}
+
+.singleRowMobileNav.navPusher {
+  padding: 0;
+}
+
+.nav-footer .sitemap .nav-home {
+  padding: 0;
+}
+
+.code-block {
+  background-color: rgba(27, 31, 35, 0.05);
+  padding: 2px 10px 2px 10px;
+  border-radius: 2px;
+}
+
+.code {
+  white-space: pre;
+}
